@@ -16,13 +16,13 @@ My list of vendors and companies I have come across
 * Level 3
 * Limelight
 * Swarmcast
-* Velocix
 * Panther Express
-* EdgeCast
+* EdgeCast-now owned by Verizon
 * Kontiki
 * Highwinds
 * Internap
-* [Uplynk](http://www.uplynk.com/index.html) video streaming
+* Velocix
+
 
 ## Home Automation
 * Canary - camera
@@ -32,6 +32,7 @@ My list of vendors and companies I have come across
 ## Live Streaming
 * istreamplanent
 * bitGravity
+* [Uplynk-now Verizon](http://www.uplynk.com/index.html) video streaming
 
 ## Storage
 * [Box](http://box.com)
