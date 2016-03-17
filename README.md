@@ -1,7 +1,11 @@
 # myvendorlist
 My list of vendors and companies I have come across
 
-## Home Automation Cameras
+## Table of Contents
+
+- [Home Automation](#home-automation)
+
+## Home Automation
 * Piper Camera
 * Canary
 * Nest Camera
