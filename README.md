@@ -5,6 +5,7 @@ My list of vendors and companies I have come across
 
 - [Content Delivery Networks](#CDN)
 - [Home Automation](#home-automation)
+- [Live Streaming](#live-streaming)
 - [Storage](#storage)
 
 
@@ -21,12 +22,16 @@ My list of vendors and companies I have come across
 * Kontiki
 * Highwinds
 * Internap
-* Uplynk http://www.uplynk.com/index.html video streaming
+* [Uplynk](http://www.uplynk.com/index.html) video streaming
 
 ## Home Automation
 * Canary - camera
 * Nest 
 * Piper - camera
+
+## Live Streaming
+* istreamplanent
+* bitGravity
 
 ## Storage
 * [Box](http://box.com)
@@ -34,4 +39,3 @@ My list of vendors and companies I have come across
 * [Dropbox](http://dropbox.com)
 * [Huddle](http://huddle.com)
 * [Oxygen](http://oxygencloud.com)
-* [Skybox](http://skybox.com)
