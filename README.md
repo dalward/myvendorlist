@@ -5,24 +5,33 @@ My list of vendors and companies I have come across
 
 - [Content Delivery Networks](#CDN)
 - [Home Automation](#home-automation)
+- [Storage](#storage)
 
 
 ## CDN
-* Limelight
 * Akamai
 * Amazon
+* BitGravity
 * Level 3
+* Limelight
 * Swarmcast
 * Velocix
 * Panther Express
 * EdgeCast
-* BitGravity
 * Kontiki
 * Highwinds
 * Internap
-* Uplynk http://www.uplynk.com/index.html&nbsp; video streaming
+* Uplynk http://www.uplynk.com/index.html video streaming
 
 ## Home Automation
-* Piper Camera
-* Canary
-* Nest Camera
+* Canary - camera
+* Nest 
+* Piper - camera
+
+## Storage
+* [Box](http://box.com)
+* [Citrix Sharefile](http://citrix.com)
+* [Dropbox](http://dropbox.com)
+* [Huddle](http://huddle.com)
+* [Oxygen](http://oxygencloud.com)
+* [Skybox](http://skybox.com)
